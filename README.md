@@ -5,6 +5,14 @@ Motivation:
 
 It can be difficult to train for cycling when the weather is uncooperative. Though I have a couple of great bikes I can ride outdoors, and can quantify my training with sports watches, indoor training is tougher. The stationary bike I train on indoors gives no feedback for wattage, only a knob to adjust resistance. Therefore, can I implement some system that will allow me to quantify my work done on the bike, and measure progress?
 
+EQUIPMENT:
+1x Stationary Bike
+1x Arduino UNO (deprecated)
+1x ESP32WROOM-32
+1x HX711 24-bit ADC
+2x BF350-3AA strain gauge
+1x (2x CR2032) battery case
+
 Inspiration (and proof of concept, really) was drawn from the following webpages:
 
 https://hackaday.com/2016/04/03/bike-power-meter-with-crank-mounted-wifi-strain-gauges/
